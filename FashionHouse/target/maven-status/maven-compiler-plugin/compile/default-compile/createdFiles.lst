@@ -1,0 +1,8 @@
+com\fashion\mart\controller\CustomerDataManagementController.class
+com\fashion\mart\repository\CustomerService.class
+com\fashion\mart\constants\Constants.class
+com\fashion\mart\repository\CustomerServiceImpl.class
+com\fashion\mart\model\Customer.class
+com\fashion\mart\FashionHouseApp.class
+com\fashion\mart\config\CustomerDataLoadingBatch$1.class
+com\fashion\mart\config\CustomerDataLoadingBatch.class
